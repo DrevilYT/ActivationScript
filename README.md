@@ -1,8 +1,8 @@
-<p align="center"><img src="https://drev.uk.to/assets/images/image01.jpg" alt="Drev's Logo"></p>
+<p align="center"><img src="https://drev.uk.to/assets/images/image01.jpg?v=1f17ffb8" alt="Drev's Logo"></p>
 
-<h1 align="center">Drev's Activation Script (MAS)</h1>
+<h1 align="center">Drev's Windows Activation Tool (DWAT)</h1>
 
-<p align="center">The best and updated Windows activation script for Windows 10 and 11 by DrevilYT.</p>
+<p align="center">The best and updated Windows activation tool/script for Windows 10 and 11 by DrevilYT.</p>
 <hr>
 
 ## Download / How to use it?
