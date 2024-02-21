@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drev.uk.to/assets/images/image01.jpg?v=1f17ffb8" alt="Drev's Logo"></p>
+<p align="center"><img src="https://drev.uk.to/assets/images/image01.jpg" alt="Drev's Logo"></p>
 
 <h1 align="center">Drev's Windows Activation Tool (DWAT)</h1>
 
@@ -7,7 +7,7 @@
 
 ## Download / How to use it?
 
-### Method 1 - PowerShell (Recommended)
+### Activate Windows
 
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter
@@ -17,7 +17,7 @@
 -   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
 
-### Method 2 - Traditional
+### Deactivate Windows
 
 -   Download the file from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip)
 -   Right-click on the downloaded zip file and extract
@@ -47,7 +47,7 @@ Release date: 22-Feb-2024
   <img src="https://massgrave.dev/images/logo_x.png" alt="Follow on 𝕏/Twitter" />
 </a>
 <a href="https://drev.uk.to/youtube">
-  <img src="https://massgrave.dev/images/logo_reddit.png" alt="YouTube" />
+  <img src="https://massgrave.dev/images/logo_youtube.png" alt="YouTube" />
 </a>
 
 ---
