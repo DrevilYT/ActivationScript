@@ -47,7 +47,7 @@ Release date: 22-Feb-2024
   <img src="https://massgrave.dev/images/logo_x.png" alt="Follow on 𝕏/Twitter" />
 </a>
 <a href="https://youtube.com/@xDrev">
-  <img src="https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg" alt="YouTube" />
+  <img src="https://raw.githubusercontent.com/xdrevx/xdrevx.github.io/main/dl/yt.ico" alt="YouTube" />
 </a>
 
 ---
