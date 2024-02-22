@@ -5,6 +5,9 @@
 <p align="center">The best and updated Windows activation tool/script for Windows 10 and 11 by DrevilYT.</p>
 <hr>
 
+<p align="center">(Old Repo)[https://github.com/drevilyt/upgradescript]</p>
+<hr>
+
 ## Download / How to use it?
 
 ### Activate Windows
