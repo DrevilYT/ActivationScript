@@ -9,7 +9,7 @@
 
 ### Activate Windows
 
--   Download the Activate_Windows.zip file from the [Latest Release.](https://github.com/DrevilYT/ActivationScript/releases/latest)
+-   Download the Activate_Windows.zip file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest).
 -   Extract the file into a folder.
 -   You will see a bunch of exe files.
 -   Select your Windows version that you would like to activate and run the exe file for it.
