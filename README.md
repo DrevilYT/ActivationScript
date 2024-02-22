@@ -35,9 +35,7 @@ Latest Version: 2.0
 Release date: 22-Feb-2024
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot.html)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media.html)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### Homepage - [https://drev.uk.to/](https://drev.uk.to/)
 </br>
 
 <a href="https://drev.uk.to/discord/redirect.html">
@@ -50,4 +48,4 @@ Release date: 22-Feb-2024
 ---
 
 <p align="center">Made by Drevil</p>
-<p align="center">[Old Repo](https://github.com/DrevilYT/UpgradeScript)</p>
+<p align="center">Old Repo: https://github.com/DrevilYT/UpgradeScript</p>
