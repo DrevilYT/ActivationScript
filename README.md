@@ -9,13 +9,13 @@
 
 ### Activate Windows
 
--   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter
-    ```
-    irm https://massgrave.dev/get | iex
-    ```
--   You will see the activation options. Follow the on-screen instructions.
--   That's all.
+-   Download the Activate_Windows.zip file from the [Latest Release.](https://github.com/DrevilYT/ActivationScript/releases/latest)
+-   Extract the file into a folder.
+-   You will see a bunch of exe files.
+-   Select your Windows version that you would like to activate and run the exe file for it.
+-   Select Yes to the UAC if prompted.
+-   And let it do the process. It will automatically restart Windows after done.
+-   After restart, your Windows should be activated.
 
 ### Deactivate Windows
 
@@ -25,8 +25,6 @@
 -   Run the file named `MAS_AIO.cmd`
 -   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
-
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
 
 </br>
 
