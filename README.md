@@ -9,22 +9,21 @@
 
 ### Activate Windows
 
--   Download the Activate_Windows.zip file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest).
--   Extract the file into a folder.
--   You will see a bunch of exe files.
--   Select your Windows version that you would like to activate and run the exe file for it.
--   Select Yes to the UAC if prompted.
--   And let it do the process. It will automatically restart Windows after done.
+-   Download the Activate_Windows.zip file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
+-   Extract the file into a folder
+-   You will see a bunch of exe files
+-   Select your Windows version that you would like to activate and run the exe file for it
+-   Select Yes to the UAC if prompted
+-   Let it do the process. It will automatically restart Windows after it finished
 -   After restart, your Windows should be activated.
 
 ### Deactivate Windows
 
--   Download the file from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip)
--   Right-click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
--   You will see the activation options. Follow the on-screen instructions.
--   That's all.
+-   Download the DWAT_deactivate_Windows.exe file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
+-   After downloaded, run th exe file
+-   Select Yes to the UAC if prompted
+-   Let it do the process. It will automatically restart Windows after it finished
+-   After restart, your Windows should be deactivated.
 
 </br>
 
