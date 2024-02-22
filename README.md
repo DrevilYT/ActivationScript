@@ -5,9 +5,6 @@
 <p align="center">The best and updated Windows activation tool/script for Windows 10 and 11 by DrevilYT.</p>
 <hr>
 
-<p align="center">[Old Repo](https://github.com/drevilyt/upgradescript)</p>
-<hr>
-
 ## Download / How to use it?
 
 ### Activate Windows
@@ -53,3 +50,4 @@ Release date: 22-Feb-2024
 ---
 
 <p align="center">Made by Drevil</p>
+<p align="center">[Old Repo](https://github.com/DrevilYT/UpgradeScript)</p>
