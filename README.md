@@ -46,9 +46,6 @@ Release date: 22-Feb-2024
 <a href="https://twitter.com/DrevilYoutube">
   <img src="https://massgrave.dev/images/logo_x.png" alt="Follow on 𝕏/Twitter" />
 </a>
-<a href="https://youtube.com/@xDrev">
-  <img src="https://raw.githubusercontent.com/xdrevx/xdrevx.github.io/main/dl/yt.ico" alt="YouTube" />
-</a>
 
 ---
 
