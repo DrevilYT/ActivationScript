@@ -20,7 +20,7 @@
 ### Deactivate Windows
 
 -   Download the DWAT_deactivate_Windows.exe file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
--   After downloaded, run th exe file
+-   After downloaded, run the exe file
 -   Select Yes to the UAC if prompted
 -   Let it do the process. It will automatically restart Windows after it finished
 -   After restart, your Windows should be deactivated.
