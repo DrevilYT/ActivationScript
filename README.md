@@ -25,6 +25,8 @@
 -   Let it do the process. It will automatically restart Windows after it finished
 -   After restart, your Windows should be deactivated.
 
+## Update
+
 </br>
 
 ```
