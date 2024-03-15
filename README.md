@@ -9,21 +9,21 @@
 
 ### Activate Windows
 
--   Download the Activate_Windows.zip file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
--   Extract the file into a folder
--   You will see a bunch of exe files
--   Select your Windows version that you would like to activate and run the exe file for it
--   Select Yes to the UAC if prompted
--   Let it do the process. It will automatically restart Windows after it finished
--   After restart, your Windows should be activated.
+-   Download the DWAT.exe file
+-   Select which version you want and type the number
+-   Just follow the steps and boom, you're done.
 
 ### Deactivate Windows
 
--   Download the DWAT_deactivate.exe file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
--   After downloaded, run the exe file
--   Select Yes to the UAC if prompted
--   Let it do the process. It will automatically restart Windows after it finished
--   After restart, your Windows should be deactivated.
+-   Download the DWAT.exe file
+-   Type the number 11
+-   Just follow the steps and boom, you're done.
+
+### Upgrade Windows (any version to pro only as of now)
+
+-   Download the DWAT.exe file
+-   Type the number 12
+-   Just follow the steps and boom, you're done.
 
 </br>
 
