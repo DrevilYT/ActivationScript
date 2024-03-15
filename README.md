@@ -9,19 +9,19 @@
 
 ### Activate Windows
 
--   Download the DWAT.exe file
+-   Download the DWAT.exe file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
 -   Select which version you want and type the number
 -   Just follow the steps and boom, you're done.
 
 ### Deactivate Windows
 
--   Download the DWAT.exe file
+-   Download the DWAT.exe file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
 -   Type the number 11
 -   Just follow the steps and boom, you're done.
 
 ### Upgrade Windows (any version to pro only as of now)
 
--   Download the DWAT.exe file
+-   Download the DWAT.exe file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
 -   Type the number 12
 -   Just follow the steps and boom, you're done.
 
