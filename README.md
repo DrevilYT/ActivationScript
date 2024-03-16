@@ -7,11 +7,15 @@
 
 ## Download / How to use it?
 
-### Activate Windows
+### Method 1 - PowerShell (Recommended)
 
--   Download the DWAT.exe file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
--   Select which version you want and type the number
--   Just follow the steps and boom, you're done.
+-   Right-click on the Windows start menu and select Run (or press Win key + R).
+-   Copy-paste the below code and press enter
+    ```
+    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v3.2/DWAT.exe" & echo. & echo. & echo Drev's Activation Script should be on your desktop now. & title gay hehe & pause
+    ```
+-   You will see the options. Follow the on-screen instructions.
+-   That's all.
 
 ### Deactivate Windows
 
