@@ -19,7 +19,7 @@
 
 ### Method 2 - Traditional
 
--   Download the file from LRS
+-   Download the file from the (Latest Release)[https://github.com/DrevilYT/ActivationScript/releases/latest]
 -   Run the file named DWAT.exe
 -   Select Yes or Allow if Windows tries to prevent you from running it.
 -   You will see the activation options. Select your option.
