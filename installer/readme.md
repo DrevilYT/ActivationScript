@@ -1,4 +1,4 @@
-# Version 3.2 and older only
+# Download Older/Other Versions
 
 ## Windows Run Installer Method Only
 
