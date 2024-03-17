@@ -27,6 +27,7 @@
 
 ### Download Other/Older Versions
 
+-   [Click here for more info](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
 </br>
 
 ```
