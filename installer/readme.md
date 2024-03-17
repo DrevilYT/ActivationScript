@@ -1,6 +1,6 @@
-### Version 3.2 and older only
+## Version 3.2 and older only
 
-## Windows Run Installer Method Only
+### Windows Run Installer Method Only
 
 -  Version 3.2
     ```
