@@ -12,7 +12,7 @@
 -   Right-click on the Windows start menu and select Run (or press Win key + R).
 -   Copy-paste the below code and press enter.
     ```
-    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.0/DWAT.exe" & echo. & echo. & echo Drev's Activation Script should be on your desktop now. & title v4 & pause
+    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.1/DWAT.exe" & echo. & echo. & echo Drev's Activation Script should be on your desktop now. & title v4.1 & pause
     ```
 -   The script should be on your desktop now. Run it and select your options.
 -   That's all.
@@ -31,8 +31,8 @@
 </br>
 
 ```
-Latest Version: 2.0
-Release date: 22-Feb-2024
+Latest Version: 4.1
+Release date: 28-Mar-2024
 ```
 
 ### Homepage - [https://drev.uk.to/](https://drev.uk.to/)
