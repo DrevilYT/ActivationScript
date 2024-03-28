@@ -5,6 +5,12 @@
 -  Right-click on the Windows start menu and select Run (or press Win key + R).
 -  Copy-paste the below code and press enter.
 
+### Version 4.1
+-   winr
+    ```
+    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.1/DWAT.exe" & echo. & echo. & echo Drev's Activation Script should be on your desktop now. & title v4.1 & pause
+    ```
+
 ### Version 4.0
 -   winr
     ```
