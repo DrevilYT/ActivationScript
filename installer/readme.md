@@ -8,7 +8,7 @@
 ### Version 4.5
 -   winr
     ```
-    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.5/DWAT.exe" & echo. & echo. & echo Drev's Activation Script should be on your desktop now. & title v4.5 & pause
+    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.5%20(vxact)/DWAT.exe" & echo. & echo. & echo Drev's Activation Script should be on your desktop now. & title v4.5 & pause
     ```
 
 ### Version 4.1
