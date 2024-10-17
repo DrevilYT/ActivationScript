@@ -13,7 +13,7 @@
 -   Select Yes or Allow if Windows tries to prevent you from running it.
 -   You will see the activation options. Select your option.
 
-### Method 2 - Windows Run Installer (Discontinued).
+### Method 2 - Windows Run Installer (Discontinued)
 -   Discontinued (new versions will no longer receive the run installer method as of v5).
 -   [Click here for the older versions code](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
 
