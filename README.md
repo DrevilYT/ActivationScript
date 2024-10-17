@@ -13,6 +13,7 @@
     ```
     cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.8/DWAT.exe" & echo. & echo. & echo Drev's Activation Script should be on your desktop now. & title v4.8 & pause
     ```
+-   [Click here for more info](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
 -   The script should be on your desktop now. Run it and select your options.
 -   That's all.
 
@@ -26,7 +27,6 @@
 
 ### Download Other/Older Versions
 
--   [Click here for more info](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
 </br>
 
 ```
