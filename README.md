@@ -23,8 +23,3 @@
 Latest Version: 5.0
 Release date: 17-Oct-2024
 ```
-
-### Homepage - [https://drev.uk.to/](https://drev.uk.to/)
-</br>
-
----
