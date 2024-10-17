@@ -8,7 +8,7 @@
 ### Version 5 (cmd gui)
 -   version 4.8 stable
     ```
-    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v5/DWATv5.exe" & echo. & echo. & echo DWAT should be on your desktop now. & title v5 & pause
+    cmd.exe /c cd %userprofile%\desktop & curl -o DWATv5.exe "https://drev.evils.in/ActivationScript/v5/DWATv5.exe" & echo. & echo. & echo DWAT should be on your desktop now. & title v5 & pause
     ```
 
 ### Version 4.8
