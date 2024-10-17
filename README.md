@@ -12,7 +12,6 @@
 -   Run the file named DWAT.exe.
 -   Select Yes or Allow if Windows tries to prevent you from running it.
 -   You will see the activation options. Select your option.
--   That's all.
 
 ### Method 2 - Windows Run Installer (Discontinued)
 -   Right-click on the Windows start menu and select Run (or press Win key + R).
