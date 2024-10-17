@@ -5,10 +5,10 @@
 -  Right-click on the Windows start menu and select Run (or press Win key + R).
 -  Copy-paste the below code and press enter.
 
-### Version 4.8 (simpler cmd)
+### Version 5 (cmd gui)
 -   version 4.8 stable
     ```
-    cmd.exe /c curl -s -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.8/DWAT.exe" & start DWAT.exe
+    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v5/DWATv5.exe" & echo. & echo. & echo DWAT should be on your desktop now. & title v5 & pause
     ```
 
 ### Version 4.8
