@@ -1,15 +1,9 @@
 # Download Older/Other Versions
 
-## Windows Run Installer Method Only
+## Windows Run Installer Method (DISCONTINUED)
 
 -  Right-click on the Windows start menu and select Run (or press Win key + R).
 -  Copy-paste the below code and press enter.
-
-### Version 5 (cmd gui)
--   version 4.8 stable
-    ```
-    cmd.exe /c cd %userprofile%\desktop & curl -o DWATv5.exe "https://drev.evils.in/ActivationScript/v5/DWATv5.exe" & echo. & echo. & echo DWAT should be on your desktop now. & title v5 & pause
-    ```
 
 ### Version 4.8
 -   version 4.8 stable
