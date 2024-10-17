@@ -17,8 +17,8 @@
 -   Right-click on the Windows start menu and select Run (or press Win key + R).
 -   Copy-paste the code and press enter.
 -   The script should be on your desktop now. Run it and select your options.
--   Discontinued (new versions will no longer receive the run installer method.
--   [Click here for older versions](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
+-   Discontinued (new versions will no longer receive the run installer method).
+-   [Click here for the older versions code](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
 
 </br>
 
