@@ -1,7 +1,7 @@
 <p align="center"><a href="https://drev.uk.to/error"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=10BB39&width=435&lines=DWAT+-+v5;The+fastest+Windows+activation+script;Now+improved+and+updated+with+cleaner+GUI" alt="drev.uk.to" /></a>
 <h1 align="center">Drev's Windows Activation Tool (DWAT)</h1>
 
-<p align="center">The best and updated Windows activation tool/script for Windows 10 and 11 by DrevilYT.</p>
+<p align="center">The fastest Windows activation tool/script for Windows by Drev.</p>
 <hr>
 
 ## Download / How to use it?
