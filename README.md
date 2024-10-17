@@ -28,6 +28,3 @@ Release date: 17-Oct-2024
 </br>
 
 ---
-
-<p align="center">Made by Drevil</p>
-<p align="center">Old Repo: https://github.com/DrevilYT/UpgradeScript</p>
