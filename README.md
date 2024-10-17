@@ -31,8 +31,8 @@
 </br>
 
 ```
-Latest Version: 4.8
-Release date: 5-April-2024
+Latest Version: 5.0
+Release date: 17-Oct-2024
 ```
 
 ### Homepage - [https://drev.uk.to/](https://drev.uk.to/)
