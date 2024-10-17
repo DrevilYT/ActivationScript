@@ -6,24 +6,20 @@
 
 ## Download / How to use it?
 
-### Method 1 - Windows Run Installer (Recommended)
-
--   Right-click on the Windows start menu and select Run (or press Win key + R).
--   Copy-paste the below code and press enter.
-    ```
-    cmd.exe /c cd %userprofile%\desktop & curl -o DWATv5.exe "https://drev.evils.in/ActivationScript/v5/DWATv5.exe" & echo. & echo. & echo DWAT should be on your desktop now. & title v5 & pause
-    ```
--   [Click here for older versions](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
--   The script should be on your desktop now. Run it and select your options.
--   That's all.
-
-### Method 2 - Traditional
+### Method 1 - Traditional (Recommended)
 
 -   Download the file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
 -   Run the file named DWAT.exe.
 -   Select Yes or Allow if Windows tries to prevent you from running it.
 -   You will see the activation options. Select your option.
 -   That's all.
+
+### Method 2 - Windows Run Installer (Discontinued)
+-   Right-click on the Windows start menu and select Run (or press Win key + R).
+-   Copy-paste the code and press enter.
+-   The script should be on your desktop now. Run it and select your options.
+-   Discontinued (new versions will no longer receive the run installer method.
+-   [Click here for older versions](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
 
 </br>
 
